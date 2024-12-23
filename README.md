@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/ab040a08-71aa-4e6f-9a28-deb2803e8f17)# Computational-Optics
-This repository contains the codes I developed while taking the Computational Optics Laboratory course at IIT Delhi. The codes introduce fundamental concepts used in computational imaging and are intended to help beginners explore key ideas in optics through practical implementation.
+# Computational-Optics
+This repository contains PDF files of the codes I developed while taking the Computational Optics Laboratory course at IIT Delhi. The codes introduce fundamental concepts used in computational imaging and are intended to help beginners explore key ideas in optics through practical implementation.
 
 While these codes are not perfect and may contain minor errors, I plan to correct and refine them using Python notebooks in the future.
 
